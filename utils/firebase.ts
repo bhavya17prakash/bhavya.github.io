@@ -20,3 +20,4 @@
 //   app.name && typeof window !== "undefined" ? getAnalytics(app) : null;
 
 // export { app, analytics };
+export {};
