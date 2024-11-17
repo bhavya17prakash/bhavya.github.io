@@ -2,7 +2,7 @@
   "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bhavya.github.io",
+  "homepage": "https://bhavya17prakash.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
