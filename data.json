@@ -1,0 +1,203 @@
+{
+  "user": {
+    "name": "Bhavya Prakash",
+    "email": "prakash.b@northeastern.edu",
+    "title": "Graduate Student @ Northeastern University",
+    "phone": "+1 (857) 205-7909",
+    "tagline": "MS Information Systems @ Northeastern University, with a rich background in full-stack development and a passion for crafting innovative solutions that push the boundaries of technology",
+    "social": [
+      {
+        "name": "GitHub",
+        "link": "https://www.github.com/bhavya17prakash",
+        "icon": "/images/github.svg"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/bhavya-prakash",
+        "icon": "/images/linkedin.svg"
+      }
+    ],
+    "resume": "https://drive.google.com/file/d/1dAJPQIZU-_z9thwTBBAwaCKS7R3iE4zk/view?usp=sharing"
+  },
+  "experience": {
+    "summary": "I have experience working in different types of environments from face-paced startups to mid-sized companies. I have worked with a diverse set of technologies to both develop and deploy web/mobile software.",
+    "jobs": [
+      {
+        "title": "Software Developer Intern",
+        "companyName": "Dassault Systemes",
+        "shortDescription": "Engineered a Terraform provider, developed a robust authentication module, and led significant database migrations and performance enhancements.",
+        "startDate": "May 2023",
+        "endDate": "Dec 2023",
+        "skills": [
+          {
+            "name": "Terraform",
+            "icon": "/images/terraform.svg"
+          },
+          {
+            "name": "React",
+            "icon": "/images/react.svg"
+          },
+          {
+            "name": "Go",
+            "icon": "/images/go.svg"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "/images/typescript.svg"
+          },
+          {
+            "name": "CirclCI",
+            "icon": "/images/circleci.svg"
+          }
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "companyName": "MakeMyTrip",
+        "shortDescription": "Spearheaded the development of cross-platform features using React-Native, enhanced performance and SEO, and promoted code reusability across the organization.",
+        "startDate": "Oct 2020",
+        "endDate": "Aug 2022",
+        "skills": [
+          {
+            "name": "React",
+            "icon": "/images/react.svg"
+          },
+          {
+            "name": "NodeJS",
+            "icon": "/images/nodejs.svg"
+          },
+          {
+            "name": "Java",
+            "icon": "/images/java.svg"
+          }
+        ]
+      },
+      {
+        "title": "Software Developer",
+        "companyName": "Ola Cabs",
+        "shortDescription": "Played a key role in security engineering and data aggregation projects, contributing to significant cost savings and operational efficiencies.",
+        "startDate": "Apr 2020",
+        "endDate": "Jan 2021",
+        "skills": [
+          {
+            "name": "React",
+            "icon": "/images/react.svg"
+          },
+          {
+            "name": "Java",
+            "icon": "/images/java.svg"
+          },
+          {
+            "name": "Docker",
+            "icon": "/images/docker.svg"
+          }
+        ]
+      },
+      {
+        "title": "Software Developer Intern",
+        "companyName": "Kloh",
+        "shortDescription": "Developed and deployed customer facing real-estate android mobile application using Java and Kotlin.",
+        "startDate": "Jul 2017",
+        "endDate": "Oct 2017",
+        "skills": [
+          {
+            "name": "Android",
+            "icon": "/images/android.svg"
+          },
+          {
+            "name": "Java",
+            "icon": "/images/java.svg"
+          }
+        ]
+      }
+    ]
+  },
+  "education": {
+    "summary": "",
+    "degrees": [
+      {
+        "name": "Northeastern University",
+        "degree": "Masters of Science in Information Systems",
+        "startDate": "Sep 2022",
+        "endDate": "Aug 2024",
+        "location": "Boston, USA"
+      },
+      {
+        "name": "Jaypee Institute of Information Technology",
+        "degree": "Bachelor of Technology in Computer Science",
+        "startDate": "Aug 2015",
+        "endDate": "May 2019",
+        "location": "Noida, India"
+      }
+    ]
+  },
+  "projects": {
+    "summary": "I have a Bacehlor's in Computer Science and a Master's in Software Engineering. During the course of my academics I have built many projects and done a handful of internships.",
+    "projects": [
+      {
+        "name": "HTTP Server",
+        "description": "A HTTP server from scratch in Golang that's capable of handling simple GET/POST requests, serving files and handling multiple concurrent connections.",
+        "github": "https://github.com/NexFlare/build-http-server-go",
+        "id": "http_server"
+      },
+      {
+        "name": "Quick Fix",
+        "description": "An online platform aimed at streamlining the student-Teaching Assistant (TA) interaction.",
+        "github": "https://github.com/NexFlare/Quick-Fix",
+        "id": "quick_fix"
+      },
+      {
+        "name": "The Blog App",
+        "description": "A full-stack tourist blogging platform that connects travellers with untapped locations that are not commonly visited by tourists",
+        "github": "https://github.com/NexFlare/The-Blog-App",
+        "id": "the_blog_app"
+      },
+      {
+        "name": "Go Build Git",
+        "description": "This project is a simplified version of Git, written in Go. It explores the internal mechanics of Git by implementing core functionalities from scratch.",
+        "github": "https://github.com/NexFlare/build-git-go",
+        "id": "own_git"
+      }
+    ]
+  },
+  "skills": {
+    "items": [
+      {
+        "name": "JavaScript",
+        "icon": "/images/javascript.svg"
+      },
+      {
+        "name": "Java",
+        "icon": "/images/java.svg"
+      },
+      {
+        "name": "React",
+        "icon": "/images/react.svg"
+      },
+      {
+        "name": "Node.js",
+        "icon": "/images/nodejs.svg"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "/images/typescript.svg"
+      },
+      {
+        "name": "Go",
+        "icon": "/images/go.svg"
+      },
+      {
+        "name": "Docker",
+        "icon": "/images/docker.svg"
+      },
+      {
+        "name": "SQL",
+        "icon": "/images/database.svg"
+      },
+      {
+        "name": "HTML/CSS",
+        "icon": "/images/html.svg"
+      }
+    ]
+  }
+}
