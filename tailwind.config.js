@@ -10,12 +10,6 @@ module.exports = {
       ...colors,
       accent: "#3898FF",
     },
-    extend: {
-      screens: {
-        xxs: "280px",
-        ...defaultTheme,
-      },
-    },
   },
   variants: {
     extend: {

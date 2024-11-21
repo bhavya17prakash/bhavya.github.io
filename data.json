@@ -4,7 +4,7 @@
     "email": "prakash.b@northeastern.edu",
     "title": "Graduate Student @ Northeastern University",
     "phone": "+1 (857) 205-7909",
-    "tagline": "MS Information Systems @ Northeastern University, with a rich background in full-stack development and a passion for crafting innovative solutions that push the boundaries of technology",
+    "tagline": "MS in Information Systems @ Northeastern University, with a rich background in full-stack development and a passion for crafting innovative solutions that push the boundaries of technology",
     "social": [
       {
         "name": "GitHub",
@@ -17,33 +17,34 @@
         "icon": "/images/linkedin.svg"
       }
     ],
-    "resume": "https://drive.google.com/file/d/1dAJPQIZU-_z9thwTBBAwaCKS7R3iE4zk/view?usp=sharing"
+    "resume": "https://drive.google.com/file/d/18ueijciz8djNjAFXBu3S9t8bDziqetdZ/view?usp=sharing"
   },
   "experience": {
     "summary": "I have experience working in different types of environments from face-paced startups to mid-sized companies. I have worked with a diverse set of technologies to both develop and deploy web/mobile software.",
     "jobs": [
       {
-        "title": "Software Developer Intern",
-        "companyName": "Dassault Systemes",
-        "shortDescription": "Engineered a Terraform provider, developed a robust authentication module, and led significant database migrations and performance enhancements.",
-        "startDate": "May 2023",
-        "endDate": "Dec 2023",
+        "title": "Software Engineer",
+        "companyName": "One Community Global",
+        "shortDescription": "Revamped internal dashboard UI with React, Redux, and JavaScript, enhancing multi-filter functionality and boosting user engagement by 25% ",
+        "startDate": "Oct 2024",
+        "endDate": "Present",
         "skills": [
-          {
-            "name": "Terraform",
-            "icon": "/images/terraform.svg"
-          },
+          
           {
             "name": "React",
             "icon": "/images/react.svg"
           },
           {
-            "name": "Go",
-            "icon": "/images/go.svg"
+            "name": "Node.js",
+            "icon": "/images/nodejs.svg"
           },
           {
-            "name": "TypeScript",
-            "icon": "/images/typescript.svg"
+            "name": "JavaScript",
+            "icon": "/images/javascript.svg"
+          },
+          {
+            "name": "GitHub",
+            "icon": "/images/github.svg"
           },
           {
             "name": "CirclCI",
@@ -52,11 +53,11 @@
         ]
       },
       {
-        "title": "Senior Software Engineer",
-        "companyName": "MakeMyTrip",
-        "shortDescription": "Spearheaded the development of cross-platform features using React-Native, enhanced performance and SEO, and promoted code reusability across the organization.",
-        "startDate": "Oct 2020",
-        "endDate": "Aug 2022",
+        "title": "Software Engineer Co-op",
+        "companyName": "Philips",
+        "shortDescription": "Designed a data visualization tool in React for real-time monitoring of medical device networks, improving efficiency by 40% ",
+        "startDate": "May 2023",
+        "endDate": "Jan 2024",
         "skills": [
           {
             "name": "React",
@@ -69,23 +70,36 @@
           {
             "name": "Java",
             "icon": "/images/java.svg"
+          },
+          {
+            "name": "GitHub",
+            "icon": "/images/github.svg"
           }
         ]
       },
       {
-        "title": "Software Developer",
-        "companyName": "Ola Cabs",
-        "shortDescription": "Played a key role in security engineering and data aggregation projects, contributing to significant cost savings and operational efficiencies.",
-        "startDate": "Apr 2020",
-        "endDate": "Jan 2021",
+        "title": "Software Engineer",
+        "companyName": "Zocdoc",
+        "shortDescription": "Developed scalable RESTful APIs with Spring Boot and PostgreSQL, contributing to 17% revenue growth through new third-party integrations. ",
+        "startDate": "Mar 2021",
+        "endDate": "Jul 2022",
         "skills": [
-          {
-            "name": "React",
-            "icon": "/images/react.svg"
-          },
+        
           {
             "name": "Java",
             "icon": "/images/java.svg"
+          },
+          {
+            "name": "Spring Boot",
+            "icon": "/images/spring.svg"
+          },
+          {
+            "name": "PostgreSQL",
+            "icon": "/images/postgre.svg"
+          },
+          {
+            "name": "AWS",
+            "icon": "/images/aws.svg"
           },
           {
             "name": "Docker",
@@ -94,19 +108,27 @@
         ]
       },
       {
-        "title": "Software Developer Intern",
-        "companyName": "Kloh",
-        "shortDescription": "Developed and deployed customer facing real-estate android mobile application using Java and Kotlin.",
-        "startDate": "Jul 2017",
-        "endDate": "Oct 2017",
+        "title": "Full Stack Software Engineer Intern",
+        "companyName": "Techprolabz",
+        "shortDescription": "Spearheaded the development of a high-traffic social networking platform on AWS, supporting 2,000+ daily active users with scalable Node.js and MySQL backend architecture.",
+        "startDate": "Jun 2020",
+        "endDate": "Dec 2020",
         "skills": [
           {
-            "name": "Android",
-            "icon": "/images/android.svg"
+            "name": "React",
+            "icon": "/images/react.svg"
           },
           {
-            "name": "Java",
-            "icon": "/images/java.svg"
+            "name": "NodeJS",
+            "icon": "/images/nodejs.svg"
+          },
+          {
+            "name": "MySQL",
+            "icon": "/images/mysql.svg"
+          },
+          {
+            "name": "AWS",
+            "icon": "/images/aws.svg"
           }
         ]
       }
@@ -123,39 +145,39 @@
         "location": "Boston, USA"
       },
       {
-        "name": "Jaypee Institute of Information Technology",
-        "degree": "Bachelor of Technology in Computer Science",
-        "startDate": "Aug 2015",
-        "endDate": "May 2019",
-        "location": "Noida, India"
+        "name": "Patna University ",
+        "degree": "Bachelor’s in Computer Application",
+        "startDate": "Jul 2018",
+        "endDate": "May 2021",
+        "location": "Patna, India"
       }
     ]
   },
   "projects": {
-    "summary": "I have a Bacehlor's in Computer Science and a Master's in Software Engineering. During the course of my academics I have built many projects and done a handful of internships.",
+    "summary": "I have a Bacehlor's in Computer Applications and a Master's in Information Systems. During the course of my academics I have built many projects and done a handful of internships.",
     "projects": [
       {
-        "name": "HTTP Server",
-        "description": "A HTTP server from scratch in Golang that's capable of handling simple GET/POST requests, serving files and handling multiple concurrent connections.",
-        "github": "https://github.com/NexFlare/build-http-server-go",
+        "name": "Cloud Native Webapp",
+        "description": "Integrated cloud services (VM, Cloud SQL, Cloud Functions) in a Node.js and React-based user management application.",
+        "github": "https://github.com/orgs/BhavyaCloudCourse/repositories",
         "id": "http_server"
       },
       {
-        "name": "Quick Fix",
-        "description": "An online platform aimed at streamlining the student-Teaching Assistant (TA) interaction.",
-        "github": "https://github.com/NexFlare/Quick-Fix",
+        "name": "Behance Organica",
+        "description": "Architected backend with Java, Spring Boot, Hibernate, MySQL for inventory CRUD operations and real-time order tracking.",
+        "github": "https://github.com/bhavya17prakash/Spring_Boot_E-Commerce_Website",
         "id": "quick_fix"
       },
       {
         "name": "The Blog App",
-        "description": "A full-stack tourist blogging platform that connects travellers with untapped locations that are not commonly visited by tourists",
+        "description": "A full-stack tourist blogging platform that connects travellers with untapped locations that are not commonly visited by tourists.",
         "github": "https://github.com/NexFlare/The-Blog-App",
         "id": "the_blog_app"
       },
       {
-        "name": "Go Build Git",
-        "description": "This project is a simplified version of Git, written in Go. It explores the internal mechanics of Git by implementing core functionalities from scratch.",
-        "github": "https://github.com/NexFlare/build-git-go",
+        "name": "NU Chronicles",
+        "description": "Achieved full stack development using React for the frontend and Node.js, Express, RESTful APIs and MongoDB for the backend.",
+        "github": "https://github.com/makarandmadhavi/NU-Chronicles",
         "id": "own_git"
       }
     ]
@@ -181,10 +203,6 @@
       {
         "name": "TypeScript",
         "icon": "/images/typescript.svg"
-      },
-      {
-        "name": "Go",
-        "icon": "/images/go.svg"
       },
       {
         "name": "Docker",
