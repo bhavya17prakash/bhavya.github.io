@@ -2,7 +2,7 @@
   "user": {
     "name": "Bhavya Prakash",
     "email": "prakash.b@northeastern.edu",
-    "title": "Graduate Student @ Northeastern University",
+    "title": "Software Engineer",
     "phone": "+1 (857) 205-7909",
     "tagline": "MS in Information Systems @ Northeastern University, with a rich background in full-stack development and a passion for crafting innovative solutions that push the boundaries of technology",
     "social": [
@@ -91,7 +91,7 @@
           },
           {
             "name": "Spring Boot",
-            "icon": "/images/spring.svg"
+            "icon": "/images/spring-boot.svg"
           },
           {
             "name": "PostgreSQL",
@@ -197,12 +197,12 @@
         "icon": "/images/react.svg"
       },
       {
-        "name": "Node.js",
-        "icon": "/images/nodejs.svg"
+        "name": "Spring Boot",
+        "icon": "/images/spring-boot.svg"
       },
       {
-        "name": "TypeScript",
-        "icon": "/images/typescript.svg"
+        "name": "Node.js",
+        "icon": "/images/nodejs.svg"
       },
       {
         "name": "Docker",
