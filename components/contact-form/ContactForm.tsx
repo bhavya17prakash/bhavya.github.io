@@ -31,7 +31,7 @@ export const ContactForm: FC<ContactFormProps> = ({ generalInfo }) => {
             alt="email"
           />
           <div className="flex-1">
-            <span className="text-xl">Send an Email</span>
+            <span className="text-xl">Email</span>
           </div>
         </a>
         <a
@@ -45,7 +45,7 @@ export const ContactForm: FC<ContactFormProps> = ({ generalInfo }) => {
             alt="phone"
           />
           <div className="flex-1">
-            <span className="text-xl">Give me a Call</span>
+            <span className="text-xl">Phone</span>
           </div>
         </a>
       </div>
